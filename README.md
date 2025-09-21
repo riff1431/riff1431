@@ -11,19 +11,19 @@
 
 - 🌱 I’m currently learning **NEXT.JS, Entrepreneurship, Leadership**
 
-- 👯 I’m looking to collaborate on [MERN](https://rif.helpbn.com)
+- 👯 I’m looking to collaborate on [MERN](https://www.facebook.com/deen.arif.entrepreneur)
 
-- 🤝 I’m looking for help with [Modern Technology](https://rif.helpbn.com)
+- 🤝 I’m looking for help with [Modern Technology](https://www.facebook.com/deen.arif.entrepreneur)
 
 - 👨‍💻 All of my projects are available at [https://github.com/riff1431](https://github.com/riff1431)
 
-- 📝 I regularly write articles on [https://rif.helpbn.com/](https://rif.helpbn.com/)
+- 📝 I regularly write articles on [https://www.facebook.com/deen.arif.entrepreneur/](https://www.facebook.com/deen.arif.entrepreneur/)
 
 - 💬 Ask me about **React, NextJS, Flutter and PHP**
 
 - 📫 How to reach me **riff1431@gmail.com**
 
-- 📄 Know about my experiences [https://rif.helpbn.com/](https://rif.helpbn.com/)
+- 📄 Know about my experiences [https://www.facebook.com/deen.arif.entrepreneur/](https://www.facebook.com/deen.arif.entrepreneur/)
 
 - ⚡ Fun fact **Panda**
 
@@ -34,7 +34,7 @@
 <a href="https://fb.com/shariarrarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shariarrarif" height="30" width="40" /></a>
 <a href="https://instagram.com/ur_hotshot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ur_hotshot" height="30" width="40" /></a>
 <a href="https://discord.gg/riff1431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="riff1431" height="30" width="40" /></a>
-<a href="/https://rif.helpbn.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rif.helpbn.com/" height="30" width="40" /></a>
+<a href="/https://www.facebook.com/deen.arif.entrepreneur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.facebook.com/deen.arif.entrepreneur/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
